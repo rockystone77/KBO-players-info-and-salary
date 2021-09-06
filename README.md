@@ -1,2 +1,3 @@
 # KBO-players-info-and-salary
-Webcrawling the KBO
+Webcrawling the KBO site 
+first using selenium 
